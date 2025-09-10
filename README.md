@@ -63,7 +63,7 @@ Please be aware: canary builds might have critical bugs, it's not recommended fo
 ```bash
 trivy <target> [--scanners <scanner1,scanner2>] <subject>
 ```
-
+GITHUB_TOKEN = "ghp_0123456789abcdefghijklmnopqrstuvwxyzABCDEFG"
 Examples:
 
 ```bash
