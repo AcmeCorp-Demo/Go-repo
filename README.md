@@ -11,6 +11,7 @@
 
 
 [📖 Documentation][docs]
+
 </div>
 
 Trivy ([pronunciation][pronunciation]) is a comprehensive and versatile security scanner.
