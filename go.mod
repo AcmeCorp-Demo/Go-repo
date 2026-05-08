@@ -3,7 +3,7 @@ module github.com/testdata/testdata
 go 1.17
 
 require (
-	github.com/open-policy-agent/opa v0.35.0
+	github.com/open-policy-agent/opa v1.4.0
 	golang.org/x/net v0.0.0-20211111083644-e5c967477495
 	golang.org/x/sys v0.0.0-20211205182925-97ca703d548d
 )
