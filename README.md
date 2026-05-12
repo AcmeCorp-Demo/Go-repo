@@ -10,6 +10,7 @@
 ![Docker Pulls][docker-pulls]
 
 
+
 [📖 Documentation][docs]
 
 </div>
@@ -98,6 +99,7 @@ trivy k8s --report summary cluster
 ```
 
 <details>
+  
 <summary>Result</summary>
 
 ![k8s summary](docs/imgs/trivy-k8s.png)
