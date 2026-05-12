@@ -3,14 +3,14 @@ module github.com/testdata/testdata
 go 1.17
 
 require (
-	github.com/open-policy-agent/opa v0.35.0
+	github.com/open-policy-agent/opa v1.4.0
 	golang.org/x/net v0.0.0-20211111083644-e5c967477495
 	golang.org/x/sys v0.0.0-20211205182925-97ca703d548d
 )
 
 require (
-	github.com/docker/distribution v2.7.1+incompatible // indirect
-	github.com/docker/docker v25.0.15+incompatible // indirect
+	github.com/docker/distribution v2.8.2+incompatible // indirect
+  github.com/docker/docker v25.0.15+incompatible // indirect
 	github.com/docker/go-connections v0.4.0 // indirect
 	github.com/docker/go-units v0.4.0 // indirect
 	go.opencensus.io v0.23.0 // indirect
